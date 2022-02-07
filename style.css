@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#nav1{
+    background-color:  #1d143b;
+}
+#banner{
+    width: 100%;
+    height: 80vh;
+}
+#item:hover{
+    background-color: black;
+}
+#coursecard{
+    width: 100%;
+    height: 70vh;
+   box-shadow: -20px 30px 20px black;
+
+}
+#Component{
+    background-color: #1d143b;
+    border-radius: 15px;
+}
+#footericon{
+    letter-spacing: 20px;
+}
